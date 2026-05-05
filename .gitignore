@@ -1,0 +1,41 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Dataset (IMPORTANT - large file, don't upload)
+dataset/
+*.csv
+
+# Model files
+*.pth
+*.h5
+*.pt
+
+# Output files
+*.png
+*.jpg
+*.jpeg
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Zip files
+*.zip
