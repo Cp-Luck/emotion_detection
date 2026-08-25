@@ -21,7 +21,7 @@ import torch.nn as nn
 from torch.utils.data import DataLoader, TensorDataset
 from sklearn.model_selection import train_test_split
 
-from model1 import EmotionNet
+from model import EmotionNet
 
 # ──────────────────────────────────────────────
 # CONFIGURATION
